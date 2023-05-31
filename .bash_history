@@ -35,3 +35,17 @@ git push -u origin master
 git remote add origin https://github.com/Naki520/test0531.git
 git branch -M main
 git push -u origin main
+git init
+git status
+git add .
+git status
+git remove add .
+git no add .
+git delete add .
+git status
+git commit -m "test"
+git status
+git remote add origin https://github.com/Naki520/test0531.git
+git push -u origin master
+git remote add origin https://github.com/Naki520/fristbox.git
+git push -u origin master
